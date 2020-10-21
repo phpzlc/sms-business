@@ -1,5 +1,5 @@
 {
-    "name": "phpzlc/document-bundle",
+    "name": "phpzlc/sms-business",
     "description": "文档生成组件",
     "license": "MIT",
     "type": "library",
