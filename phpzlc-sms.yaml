@@ -1,0 +1,28 @@
+parameters:
+    ##########################公共配置################################
+    #过期时长
+    SMS_expireTime: 900
+
+    #可用次数
+    SMS_usedTime: 1
+
+    #是否通过第三方接口发放
+    SMS_trueSend: false
+
+    #是否返回前台验证码
+    SMS_isBeta: true
+
+    #验证码类型 1:纯数字 2数组与英文
+    SMS_saltType: 1
+
+    #验证码类型 不设置默认为4
+    SMS_saltNum: 4
+
+    ##########################aliyun接口配置################################
+
+    SMS_aliyun_accessKeyId:
+    SMS_aliyun_accessKeySecret:
+    SMS_aliyun_signName:
+
+    ##########################聚合数据接口配置################################
+    SMS_juhe_key:
