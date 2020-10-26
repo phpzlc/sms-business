@@ -15,10 +15,5 @@
             "email": "hjjhanxing@gmail.com",
             "role": "Developer"
         }
-    ],
-    "autoload": {
-        "psr-4": {
-            "PHPZlc\\SmsBusiness\\": "src/"
-        }
-    }
+    ]
 }
