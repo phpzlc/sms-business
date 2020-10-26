@@ -15,5 +15,13 @@
             "email": "hjjhanxing@gmail.com",
             "role": "Developer"
         }
-    ]
+    ],
+    "autoload": {
+        "psr-4": {
+            "PHPZlc\\SmsBusiness\\": "src/"
+        }
+    },
+    "require": {
+        "alibabacloud/client": "1.5.*"
+    }
 }
