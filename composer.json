@@ -22,7 +22,7 @@
         }
     },
     "require": {
-        "phpzlc/phpzlc": "1.*",
+        "phpzlc/phpzlc": "2.*",
         "alibabacloud/client": "1.5.*"
     }
 }
